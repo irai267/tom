@@ -39,7 +39,7 @@
 </head>
 <body>
   <div class="login-box">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Login Logo">
+    <img src="dd.jpeg" alt="Login Logo">
     <h2>Login</h2>
     <form>
       <input type="text" placeholder="Username"><br>
